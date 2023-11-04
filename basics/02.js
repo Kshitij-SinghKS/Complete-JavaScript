@@ -1,4 +1,4 @@
-// let var const 
+// let var const  used to declare variables
 const accountId = 1412;
 let accountEmail = "abc@gmail.com" 
 /*
