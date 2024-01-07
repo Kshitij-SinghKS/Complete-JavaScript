@@ -21,7 +21,7 @@ const myArr2 = new Array(1, 2, 3, 4)   //DECLARING ARRAY USING ARRAY CONSTRUCTOR
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(3));
 
-// const newArr = myArr.join()
+// const newArr = myArr.join()           converts to string
 
 // console.log(myArr);
 // console.log( newArr);
