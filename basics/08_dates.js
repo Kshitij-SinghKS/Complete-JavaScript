@@ -1,11 +1,12 @@
 
 // Dates
+//temporal api to be made global in near future as per tc39
 
 let myDate = new Date()
 // console.log(myDate.toString());
 // console.log(myDate.toDateString());
 // console.log(myDate.toLocaleString());
-// console.log(typeof myDate);
+// console.log(typeof myDate);   // object
 
 // let myCreatedDate = new Date(2023, 0, 23)
 // let myCreatedDate = new Date(2023, 0, 23, 5, 3)
